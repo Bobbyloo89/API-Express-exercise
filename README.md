@@ -20,6 +20,8 @@ To get started with this project, follow these steps:
    OR
    npm start
 
+The API will be available at http://localhost:3000.
+
 ## General Information
 
 This API provides basic operations to manage users. It allows you to:
